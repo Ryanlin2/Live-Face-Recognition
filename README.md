@@ -1,4 +1,2 @@
 # Live-Face-Recognition
-import cv2
-
-#loading the haar case algorithm file into alg variable
+A simple script that utilizes deepface and opencv to recognize my face
